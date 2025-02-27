@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "B1fYe7xFYCNGJfboHBm9igSHI7q48wHscgsXi6PxaSA=",
+  "Source": "SmartGovernment.API",
+  "BasePath": "_content/SmartGovernment.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,15 @@
+G:\Graduation Project\Smart_Government\SmartGovernment.Repository\bin\Debug\net5.0\SmartGovernment.Repository.deps.json
+G:\Graduation Project\Smart_Government\SmartGovernment.Repository\bin\Debug\net5.0\SmartGovernment.Repository.dll
+G:\Graduation Project\Smart_Government\SmartGovernment.Repository\bin\Debug\net5.0\SmartGovernment.Repository.pdb
+G:\Graduation Project\Smart_Government\SmartGovernment.Repository\bin\Debug\net5.0\SmartGovernment.Core.dll
+G:\Graduation Project\Smart_Government\SmartGovernment.Repository\bin\Debug\net5.0\SmartGovernment.Core.pdb
+G:\Graduation Project\Smart_Government\SmartGovernment.Repository\obj\Debug\net5.0\SmartGovernment.Repository.csproj.AssemblyReference.cache
+G:\Graduation Project\Smart_Government\SmartGovernment.Repository\obj\Debug\net5.0\SmartGovernment.Repository.GeneratedMSBuildEditorConfig.editorconfig
+G:\Graduation Project\Smart_Government\SmartGovernment.Repository\obj\Debug\net5.0\SmartGovernment.Repository.AssemblyInfoInputs.cache
+G:\Graduation Project\Smart_Government\SmartGovernment.Repository\obj\Debug\net5.0\SmartGovernment.Repository.AssemblyInfo.cs
+G:\Graduation Project\Smart_Government\SmartGovernment.Repository\obj\Debug\net5.0\SmartGovernment.Repository.csproj.CoreCompileInputs.cache
+G:\Graduation Project\Smart_Government\SmartGovernment.Repository\obj\Debug\net5.0\SmartGovernment.Repository.csproj.CopyComplete
+G:\Graduation Project\Smart_Government\SmartGovernment.Repository\obj\Debug\net5.0\SmartGovernment.Repository.dll
+G:\Graduation Project\Smart_Government\SmartGovernment.Repository\obj\Debug\net5.0\refint\SmartGovernment.Repository.dll
+G:\Graduation Project\Smart_Government\SmartGovernment.Repository\obj\Debug\net5.0\SmartGovernment.Repository.pdb
+G:\Graduation Project\Smart_Government\SmartGovernment.Repository\obj\Debug\net5.0\ref\SmartGovernment.Repository.dll

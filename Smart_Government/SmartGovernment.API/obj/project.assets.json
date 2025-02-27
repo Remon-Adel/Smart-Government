@@ -1,0 +1,125 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "SmartGovernment.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/SmartGovernment.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SmartGovernment.Core.dll": {}
+        }
+      },
+      "SmartGovernment.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "SmartGovernment.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SmartGovernment.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SmartGovernment.Repository.dll": {}
+        }
+      },
+      "SmartGovernment.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "SmartGovernment.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SmartGovernment.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SmartGovernment.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SmartGovernment.Core/1.0.0": {
+      "type": "project",
+      "path": "../SmartGovernment.Core/SmartGovernment.Core.csproj",
+      "msbuildProject": "../SmartGovernment.Core/SmartGovernment.Core.csproj"
+    },
+    "SmartGovernment.Repository/1.0.0": {
+      "type": "project",
+      "path": "../SmartGovernment.Repository/SmartGovernment.Repository.csproj",
+      "msbuildProject": "../SmartGovernment.Repository/SmartGovernment.Repository.csproj"
+    },
+    "SmartGovernment.Service/1.0.0": {
+      "type": "project",
+      "path": "../SmartGovernment.Service/SmartGovernment.Service.csproj",
+      "msbuildProject": "../SmartGovernment.Service/SmartGovernment.Service.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "SmartGovernment.Repository >= 1.0.0",
+      "SmartGovernment.Service >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\moham\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\Smart_Government\\Smart_Government\\SmartGovernment.API\\SmartGovernment.API.csproj",
+      "projectName": "SmartGovernment.API",
+      "projectPath": "F:\\Smart_Government\\Smart_Government\\SmartGovernment.API\\SmartGovernment.API.csproj",
+      "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
+      "outputPath": "F:\\Smart_Government\\Smart_Government\\SmartGovernment.API\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\moham\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "F:\\Smart_Government\\Smart_Government\\SmartGovernment.Repository\\SmartGovernment.Repository.csproj": {
+              "projectPath": "F:\\Smart_Government\\Smart_Government\\SmartGovernment.Repository\\SmartGovernment.Repository.csproj"
+            },
+            "F:\\Smart_Government\\Smart_Government\\SmartGovernment.Service\\SmartGovernment.Service.csproj": {
+              "projectPath": "F:\\Smart_Government\\Smart_Government\\SmartGovernment.Service\\SmartGovernment.Service.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

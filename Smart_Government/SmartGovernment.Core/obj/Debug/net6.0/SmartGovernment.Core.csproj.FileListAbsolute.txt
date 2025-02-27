@@ -1,0 +1,24 @@
+G:\Graduation Project\Smart_Government\SmartGovernment.Core\bin\Debug\net6.0\SmartGovernment.Core.deps.json
+G:\Graduation Project\Smart_Government\SmartGovernment.Core\bin\Debug\net6.0\SmartGovernment.Core.dll
+G:\Graduation Project\Smart_Government\SmartGovernment.Core\bin\Debug\net6.0\SmartGovernment.Core.pdb
+G:\Graduation Project\Smart_Government\SmartGovernment.Core\obj\Debug\net6.0\SmartGovernment.Core.csproj.AssemblyReference.cache
+G:\Graduation Project\Smart_Government\SmartGovernment.Core\obj\Debug\net6.0\SmartGovernment.Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\Graduation Project\Smart_Government\SmartGovernment.Core\obj\Debug\net6.0\SmartGovernment.Core.AssemblyInfoInputs.cache
+G:\Graduation Project\Smart_Government\SmartGovernment.Core\obj\Debug\net6.0\SmartGovernment.Core.AssemblyInfo.cs
+G:\Graduation Project\Smart_Government\SmartGovernment.Core\obj\Debug\net6.0\SmartGovernment.Core.csproj.CoreCompileInputs.cache
+G:\Graduation Project\Smart_Government\SmartGovernment.Core\obj\Debug\net6.0\SmartGovernment.Core.dll
+G:\Graduation Project\Smart_Government\SmartGovernment.Core\obj\Debug\net6.0\refint\SmartGovernment.Core.dll
+G:\Graduation Project\Smart_Government\SmartGovernment.Core\obj\Debug\net6.0\SmartGovernment.Core.pdb
+G:\Graduation Project\Smart_Government\SmartGovernment.Core\obj\Debug\net6.0\ref\SmartGovernment.Core.dll
+G:\Smart_Government\Smart_Government\SmartGovernment.Core\bin\Debug\net6.0\SmartGovernment.Core.deps.json
+G:\Smart_Government\Smart_Government\SmartGovernment.Core\bin\Debug\net6.0\SmartGovernment.Core.dll
+G:\Smart_Government\Smart_Government\SmartGovernment.Core\bin\Debug\net6.0\SmartGovernment.Core.pdb
+G:\Smart_Government\Smart_Government\SmartGovernment.Core\obj\Debug\net6.0\SmartGovernment.Core.csproj.AssemblyReference.cache
+G:\Smart_Government\Smart_Government\SmartGovernment.Core\obj\Debug\net6.0\SmartGovernment.Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\Smart_Government\Smart_Government\SmartGovernment.Core\obj\Debug\net6.0\SmartGovernment.Core.AssemblyInfoInputs.cache
+G:\Smart_Government\Smart_Government\SmartGovernment.Core\obj\Debug\net6.0\SmartGovernment.Core.AssemblyInfo.cs
+G:\Smart_Government\Smart_Government\SmartGovernment.Core\obj\Debug\net6.0\SmartGovernment.Core.csproj.CoreCompileInputs.cache
+G:\Smart_Government\Smart_Government\SmartGovernment.Core\obj\Debug\net6.0\SmartGovernment.Core.dll
+G:\Smart_Government\Smart_Government\SmartGovernment.Core\obj\Debug\net6.0\refint\SmartGovernment.Core.dll
+G:\Smart_Government\Smart_Government\SmartGovernment.Core\obj\Debug\net6.0\SmartGovernment.Core.pdb
+G:\Smart_Government\Smart_Government\SmartGovernment.Core\obj\Debug\net6.0\ref\SmartGovernment.Core.dll
